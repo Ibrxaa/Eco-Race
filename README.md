@@ -83,3 +83,11 @@ The full Eco-Race project report is included in this repository.
 ## 👤 Project Author
 
 Ibrahim Rebwar
+
+---
+
+## © Copyright
+
+This project and all related materials are the intellectual property of Ibrahim Rebwar.
+
+Unauthorized copying, reproduction, distribution, or reuse of this project is not permitted without permission.
