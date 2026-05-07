@@ -54,8 +54,6 @@ Eco-Race combines gamification, verification, and institutional competition into
 * User, System, and Admin flowcharts
 * Figma UI prototype and application screens
 
-📺 Demo Video:
-https://youtube.com/shorts/KeEJPePsLCQ
 
 ---
 
